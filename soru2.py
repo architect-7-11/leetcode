@@ -20,11 +20,11 @@ def liste_topla(l1,l2):
 
     l3 = new_l1 + new_l2
     new_l3 = [int(i) for i in str(l3)]
-    new_l3.reverse()
+    new_l3
     print(new_l3)
 
 
-l1,l2 = [5,6,4],[2,4,3]
+l1,l2 = [2,4,3],[5,6,4]
 
 print(liste_topla(l1,l2))
 
